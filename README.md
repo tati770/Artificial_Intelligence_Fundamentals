@@ -1,5 +1,5 @@
 # Artificial Intelligence Fundamentals
-O desafio proposto é solucionar o problena da Sabor Express, uma pequena empresa de delivery de alimentos que vem enfrentando dificuldades para gerenciar suas entregas durante horários de pico, especialmente em períodos de alta demanda, como hora do almoço e jantar. Frequentemente, os entregadores demoram mais que o previsto, percorrendo rotas ineficientes, o que gera atrasos, aumento no custo de combustível e, consequentemente, insatisfação dos clientes.
+O desafio proposto é solucionar o problema de uma pequena empresa de delivery de alimentos a Sabor Express, que vem enfrentando dificuldades para gerenciar suas entregas durante horários de pico, especialmente em períodos de alta demanda, como hora do almoço e jantar. Frequentemente, os entregadores demoram mais que o previsto, percorrendo rotas ineficientes, o que gera atrasos, aumento no custo de combustível e, consequentemente, insatisfação dos clientes.
 
 Este projeto propõe uma solução baseada em Inteligência Artificial, utilizando algoritmos de busca e agrupamento para auxiliar na organização das entregas.
 
