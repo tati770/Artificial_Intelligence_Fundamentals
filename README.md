@@ -25,6 +25,14 @@ K-Means para agrupamento das entregas.
 
 As tecnologias foram escolhidas por serem simples, adequadas ao problema e fáceis de integrar. Python foi utilizado por facilitar a implementação dos algoritmos. O A* foi escolhido para encontrar caminhos eficientes no grafo, enquanto o K-Means foi utilizado para agrupar entregas próximas. O NumPy auxilia no tratamento das coordenadas, o Scikit-learn fornece o K-Means e o Matplotlib permite visualizar a rota e os agrupamentos.
 
+# Dados
+
+Os dados utilizados no projeto são simulados para representar uma pequena região de atendimento da empresa Sabor Express.
+
+As informações utilizadas incluem as coordenadas dos pontos da cidade, as conexões entre os locais e os pontos de entrega. Esses dados foram definidos diretamente no código Python do notebook, não sendo utilizado um arquivo CSV externo nesta versão.
+
+A pasta `data/` foi criada para organizar a estrutura do projeto e facilitar a inclusão de arquivos de dados em futuras versões.
+
 # Representação da estrutura do projeto
 
 A cidade foi representada como um grafo.
