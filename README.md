@@ -90,11 +90,8 @@ A distância total estimada pela solução foi de:
 O projeto também gera dois gráficos:
 
 Mapa da cidade com a rota encontrada pelo A*;
-<img width="680" height="440" alt="Captura de tela 2026-09-14 180133" src="https://github.com/user-attachments/assets/b6b6ca61-a7b8-4704-9e36-46a136d17a5e" />
 
 Agrupamento das entregas utilizando K-Means.
-<img width="606" height="368" alt="Captura de tela 2026-09-14 180325" src="https://github.com/user-attachments/assets/506de4ff-2cc7-4cf3-be7a-57c6ca1b4c77" />
-
 
 
 # Benefícios da solução
