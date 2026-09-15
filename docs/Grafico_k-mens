@@ -1,2 +1,0 @@
-plt.savefig("agrupamento_kmeans.png", dpi=300, bbox_inches="tight")
-plt.show()
